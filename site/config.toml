@@ -13,4 +13,4 @@ title = "DevonWebs Network Status"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["Alfa - cPanel", "Indigo - cPanel", "Juliet - cPanel", "DNS", "Storage #1", "Storage 2"]
+systems = ["Alfa - cPanel", "Indigo - cPanel", "Juliet - cPanel", "DNS", "Storage #1", "Storage #2"]
